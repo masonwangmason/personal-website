@@ -1,0 +1,37 @@
+# Logs
+logs
+*.log
+npm-debug.log*
+
+# Dependency directories
+node_modules/
+
+# Environment variables
+.env
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Editor-specific files
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+
+# Coverage files
+coverage/
+
+# Build files
+dist/
+build/
+
+# Prettier and ESLint files
+*.cache
+.eslintcache
+
+# Other temporary files
+*.tmp
+*.temp
