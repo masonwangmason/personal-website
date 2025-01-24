@@ -6,6 +6,10 @@
 **Class Link**: https://johnguerra.co/classes/webDevelopment_spring_2025/  
 **Design Doc**: https://docs.google.com/document/d/1xVp95w63Dpnob-XolxhmsHt6VNIu7tCLXmQuUiRLhm4/edit?usp=sharing  
 **Slides**: https://docs.google.com/presentation/d/1df0r7nBfB9w_Ayc51t0taykHQCFrZFMM5fm4epdwnNY/edit?usp=sharing  
+**Demo**: https://masonwangmason.github.io/personal-website/    
+**Video**: https://www.youtube.com/watch?v=l4Levn7_nJU    
+**Wireframe**: https://www.figma.com/design/ZKX5ClFULukx0HlhKtXjZ7/Web-Dev-Project-1?m=auto&t=laCwzkNypXkyzWKp-1  
+
 
 ## Project Objective
 This project is a personal homepage designed to showcase my professional background, technical skills, and past projects. Built with responsiveness and user experience in mind, it serves as an engaging portfolio for students, professionals, and potential collaborators. The website includes:
