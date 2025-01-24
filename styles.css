@@ -39,7 +39,32 @@
 /* Footer Styling */
 footer {
   background-color: #000000;
-  color: #e9e9e9; /* Optional: to match the contact section's color */
-  text-align: center; /* Optional: center-align the footer text */
-  padding: 1rem 0; /* Optional: add padding for spacing */
+  color: #e9e9e9; 
+  text-align: center; 
+  padding: 1rem 0; 
 }
+
+/* Back to Top Button */
+.back-to-top {
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+    width: 50px;
+    height: 50px;
+    background-color: #000;
+    color: #fff;
+    border: none;
+    border-radius: 50%;
+    cursor: pointer;
+    font-size: 18px;
+    display: none; /* Initially hidden - will change with Javascript after scroll down */
+    justify-content: center;
+    align-items: center;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.2);
+    z-index: 1000;
+  }
+  
+  .back-to-top:hover {
+    background-color: #444;
+  }
+  
